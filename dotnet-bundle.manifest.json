@@ -1,0 +1,172 @@
+{
+  "Microsoft.AspNetCore.Components.k27lwsx0j3.wasm": {
+    "start": 0,
+    "end": 254229,
+    "size": 254229
+  },
+  "Microsoft.AspNetCore.Components.Web.ddtx62bvip.wasm": {
+    "start": 254229,
+    "end": 316458,
+    "size": 62229
+  },
+  "Microsoft.AspNetCore.Components.WebAssembly.pu7ukq7mc8.wasm": {
+    "start": 316458,
+    "end": 437055,
+    "size": 120597
+  },
+  "Microsoft.Extensions.Configuration.Abstractions.tpczufzwp2.wasm": {
+    "start": 437055,
+    "end": 443988,
+    "size": 6933
+  },
+  "Microsoft.Extensions.Configuration.Json.1lxtda7b76.wasm": {
+    "start": 443988,
+    "end": 454505,
+    "size": 10517
+  },
+  "Microsoft.Extensions.Configuration.q7mprxdk9u.wasm": {
+    "start": 454505,
+    "end": 463486,
+    "size": 8981
+  },
+  "Microsoft.Extensions.DependencyInjection.4y4q13ad1f.wasm": {
+    "start": 463486,
+    "end": 510355,
+    "size": 46869
+  },
+  "Microsoft.Extensions.DependencyInjection.Abstractions.b92zpn7lfr.wasm": {
+    "start": 510355,
+    "end": 536744,
+    "size": 26389
+  },
+  "Microsoft.Extensions.Logging.458sc79u80.wasm": {
+    "start": 536744,
+    "end": 554429,
+    "size": 17685
+  },
+  "Microsoft.Extensions.Logging.Abstractions.njj5qyo2n9.wasm": {
+    "start": 554429,
+    "end": 582354,
+    "size": 27925
+  },
+  "Microsoft.Extensions.Options.fnb539tafa.wasm": {
+    "start": 582354,
+    "end": 599527,
+    "size": 17173
+  },
+  "Microsoft.Extensions.Primitives.t5nly8q5ue.wasm": {
+    "start": 599527,
+    "end": 611068,
+    "size": 11541
+  },
+  "Microsoft.JSInterop.fbogpioyr1.wasm": {
+    "start": 611068,
+    "end": 656913,
+    "size": 45845
+  },
+  "Microsoft.JSInterop.WebAssembly.xf8qtksl6r.wasm": {
+    "start": 656913,
+    "end": 668966,
+    "size": 12053
+  },
+  "System.Collections.Concurrent.ek5y4xes2v.wasm": {
+    "start": 668966,
+    "end": 689723,
+    "size": 20757
+  },
+  "System.Collections.Immutable.0xr7eapcw0.wasm": {
+    "start": 689723,
+    "end": 740688,
+    "size": 50965
+  },
+  "System.Collections.mxhfng83ix.wasm": {
+    "start": 740688,
+    "end": 762981,
+    "size": 22293
+  },
+  "System.ComponentModel.pdcb1269co.wasm": {
+    "start": 762981,
+    "end": 767866,
+    "size": 4885
+  },
+  "System.Console.qxvd8jw3pr.wasm": {
+    "start": 767866,
+    "end": 782479,
+    "size": 14613
+  },
+  "System.Diagnostics.DiagnosticSource.oziowjtvm8.wasm": {
+    "start": 782479,
+    "end": 822180,
+    "size": 39701
+  },
+  "System.IO.Pipelines.a8228aos00.wasm": {
+    "start": 822180,
+    "end": 828089,
+    "size": 5909
+  },
+  "System.Linq.ldqrg27skk.wasm": {
+    "start": 828089,
+    "end": 856014,
+    "size": 27925
+  },
+  "System.Memory.jqlpy03fss.wasm": {
+    "start": 856014,
+    "end": 870627,
+    "size": 14613
+  },
+  "System.Net.Http.e982fksqta.wasm": {
+    "start": 870627,
+    "end": 1006584,
+    "size": 135957
+  },
+  "System.Net.Http.Json.5tvcx3xf4z.wasm": {
+    "start": 1006584,
+    "end": 1024269,
+    "size": 17685
+  },
+  "System.Net.Primitives.5fbt7b1e4b.wasm": {
+    "start": 1024269,
+    "end": 1031714,
+    "size": 7445
+  },
+  "System.Private.CoreLib.jlw65k7xym.wasm": {
+    "start": 1031714,
+    "end": 2570039,
+    "size": 1538325
+  },
+  "System.Private.Uri.ss8pj592de.wasm": {
+    "start": 2570039,
+    "end": 2636876,
+    "size": 66837
+  },
+  "System.Runtime.fs55v0jcjh.wasm": {
+    "start": 2636876,
+    "end": 2642785,
+    "size": 5909
+  },
+  "System.Runtime.InteropServices.JavaScript.9xcz46h84q.wasm": {
+    "start": 2642785,
+    "end": 2686582,
+    "size": 43797
+  },
+  "System.Security.Cryptography.yq17vlnx6i.wasm": {
+    "start": 2686582,
+    "end": 2707339,
+    "size": 20757
+  },
+  "System.Text.Encodings.Web.u3wukg7jrf.wasm": {
+    "start": 2707339,
+    "end": 2737824,
+    "size": 30485
+  },
+  "System.Text.Json.krs94n27bl.wasm": {
+    "start": 2737824,
+    "end": 3113909,
+    "size": 376085
+  },
+  "System.Text.RegularExpressions.1rsonllq4h.wasm": {
+    "start": 3113909,
+    "end": 3130058,
+    "size": 16149
+  }
+}
