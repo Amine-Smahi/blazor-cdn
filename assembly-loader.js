@@ -1,10 +1,10 @@
-function initializeAssemblyLoader(serverAppUrl, bundleServerUrl, appName) {
+function initializeAssemblyLoader(serverAppUrl, appName) {
     let blobUrls = new Map();
 
     async function initializeBundle() {
         const [manifestResponse, bundleResponse] = await Promise.all([
-            fetch(`${bundleServerUrl}/dotnet-bundle.manifest.json`),
-            fetch(`${bundleServerUrl}/dotnet-bundle.wasm`)
+            fetch(`./dotnet-bundle.manifest.json`),
+            fetch(`./dotnet-bundle.wasm`)
         ]);
         
         const bundleManifest = await manifestResponse.json();
@@ -29,7 +29,7 @@ function initializeAssemblyLoader(serverAppUrl, bundleServerUrl, appName) {
                     return blobUrls.get(name);
                 }
                 
-                return `${bundleServerUrl}/${name}`;
+                return `./${name}`;
             }
         });
     });
